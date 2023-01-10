@@ -1,6 +1,12 @@
 ---
 en:
   app:
+    home:
+      hero:
+        title: The fundraising engine of choice for 50,000 organizations from 96 countries.
+        description: Your online donation platform should be powerful enough to
+          2x donations and simple enough to be used effectively by absolutely everyone.
+        cta_button: Start fundraising in just 15 minutes
     blog_1:
       description: Landing pages are some of the most important pieces of the digital
         puzzle.
