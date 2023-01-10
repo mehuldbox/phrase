@@ -1,0 +1,17 @@
+phrase:
+  access_token: 2b65ee94cdb2a2e11c6394b8a60a61a2761bc853903767bd40848ccc2d02ff79 
+  project_id: 7629be6fe0a9059c53cf9aed9ffc1d16 
+  file_format: "yml" 
+  
+  push:
+    sources:
+    - file: "./config/locales/en.yml"
+      params:
+        update_translations: true
+        autotranslate: true
+          
+  pull:
+    targets:
+    - file: "./config/locales/<locale_code>.yml"
+      params:
+        file_format: "yml"
