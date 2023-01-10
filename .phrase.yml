@@ -5,14 +5,13 @@ phrase:
   
   push:
     sources:
-    - file: "./config/locales/<tag>/en.yml"
+    - file: "./config/locales/en.yml"
       params:
-        tags: "landing_pages"
         update_translations: true
         autotranslate: true
           
   pull:
     targets:
-    - file: "./config/locales/<tag>/<locale_code>.yml"
+    - file: "./config/locales/<locale_code>.yml"
       params:
         file_format: "yml"
