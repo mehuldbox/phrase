@@ -7,6 +7,9 @@ en:
         description: Your online donation platform should be powerful enough to
           2x donations and simple enough to be used effectively by absolutely everyone.
         cta_button: Start fundraising in just 15 minutes
+      features:
+        1: Donation Forms
+        2: Donate Buttons
     blog_1:
       description: Landing pages are some of the most important pieces of the digital
         puzzle.
