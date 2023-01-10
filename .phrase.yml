@@ -5,7 +5,7 @@ phrase:
   
   push:
     sources:
-    - file: "./config/locales/<tags>/en.yml"
+    - file: "./config/locales/<tag>/en.yml"
       params:
         tags: "landing_pages"
         update_translations: true
@@ -13,6 +13,6 @@ phrase:
           
   pull:
     targets:
-    - file: "./config/locales/<tags>/<locale_code>.yml"
+    - file: "./config/locales/<tag>/<locale_code>.yml"
       params:
         file_format: "yml"
