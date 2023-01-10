@@ -1,0 +1,21 @@
+---
+es:
+  app:
+    blog_1:
+      description: Las páginas de destino son algunas de las piezas más importantes
+        del rompecabezas digital.
+      features:
+      - Página de registro de voluntarios
+      - Página de donación
+      - Página de suscripción al boletín informativo
+      tips:
+      - Que sea fácil de leer
+      - Usa imágenes para contar tu historia
+      - Probar y actualizar antes de enviar
+      title1: Cómo crear una página de destino sin fines de lucro.
+    home:
+      batch:
+        '1':
+          message: Message d-box
+      hero:
+        title: Title d-box
