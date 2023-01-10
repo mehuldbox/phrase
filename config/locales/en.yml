@@ -1,17 +1,6 @@
 ---
 en:
   app:
-    home:
-      hero:
-        title: The fundraising engine of choice for 50,000 organizations from 96 countries.
-        description: Your online donation platform should be powerful enough to
-          2x donations and simple enough to be used effectively by absolutely everyone.
-        cta_button: Start fundraising in just 15 minutes
-      features:
-        1: Donation Forms
-      batch:
-        1:
-          message: Added the batch one changes. and update the title key and remove second features
     blog_1:
       description: Landing pages are some of the most important pieces of the digital
         puzzle.
@@ -24,3 +13,15 @@ en:
       - Use images to tell your story
       - Test and update before send
       title1: How to Create a Nonprofit Landing Page.
+    home:
+      batch:
+        '1':
+          message: Added the batch one changes. and update the title key and remove
+            second features
+      features:
+        '1': Donation Forms
+      hero:
+        cta_button: Start fundraising in just 15 minutes
+        description: Your online donation platform should be powerful enough to 2x
+          donations and simple enough to be used effectively by absolutely everyone.
+        title: The fundraising engine of choice for 50,000 organizations from 96 countries.
