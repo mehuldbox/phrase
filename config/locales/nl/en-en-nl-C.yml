@@ -1,0 +1,24 @@
+---
+en:
+  app:
+    home:
+      hero:
+        title: De fondsenwervende engine bij uitstek voor 50.000 organisaties uit 96 landen.
+        description: Uw online donatieplatform moet krachtig genoeg zijn om 2x donaties te doen en eenvoudig genoeg om effectief door absoluut iedereen te worden gebruikt.
+        cta_button: Begin met fondsenwerving in slechts 15 minuten
+      features:
+        1: Donatieformulieren
+      batch:
+        1:
+          message: Toegevoegd de batch één wijzigingen. en werk de titelsleutel bij en verwijder tweede functies
+    blog_1:
+      description: "Landingspagina's zijn enkele van de belangrijkste stukjes van de digitale puzzel."
+      features:
+      - Aanmeldingspagina voor vrijwilligers
+      - Donatie pagina
+      - aanmeldingspagina nieuwsbrief
+      tips:
+      - Maak het gemakkelijk te lezen
+      - Gebruik afbeeldingen om je verhaal te vertellen
+      - Test en update voor verzending
+      title1: Een bestemmingspagina voor non-profitorganisaties maken.
