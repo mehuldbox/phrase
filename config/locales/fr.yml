@@ -1,0 +1,29 @@
+---
+fr:
+  app:
+    blog_1:
+      description: Les pages de destination sont parmi les pièces les plus importantes
+        du puzzle numérique.
+      features:
+      - Page d’inscription des bénévoles
+      - Page de don
+      - Page d’inscription à la newsletter
+      tips:
+      - Faciliter la lecture
+      - Utilisez des images pour raconter votre histoire
+      - Test et mise à jour avant envoi
+      title1: Comment créer une page de destination pour les associations.
+    home:
+      batch:
+        '1':
+          message: Ajout du lot un changements. et mettre à jour la touche de titre
+            et supprimer les deuxièmes fonctionnalités
+      features:
+        '1': Formulaires de don
+      hero:
+        cta_button: Commencez la collecte de fonds en seulement 15 minutes
+        description: Votre plateforme de dons en ligne doit être assez puissante pour
+          2x les dons et assez simple pour être utilisée efficacement par absolument
+          tout le monde.
+        title: Le moteur de collecte de fonds de choix pour 50 000 organisations de
+          96 pays.

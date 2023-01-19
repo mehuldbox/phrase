@@ -25,3 +25,14 @@ en:
         description: Your online donation platform should be powerful enough to 2x
           donations and simple enough to be used effectively by absolutely everyone.
         title: The fundraising engine of choice for 50,000 organizations from 96 countries.
+  application:
+    home:
+      industry:
+        animal: Animals
+        art: Arts
+        church: Churches
+        journalism: Journalism
+        medical: Medical
+        nonprofits: Nonprofits
+        political: Political
+        universities: Universities
