@@ -17,5 +17,12 @@ es:
       batch:
         '1':
           message: Message d-box
+      features:
+        '1': Formularios de donación
       hero:
-        title: Title d-box
+        cta_button: Comience a recaudar fondos en solo 15 minutos
+        description: Su plataforma de donación en línea debe ser lo suficientemente
+          potente como para 2 veces las donaciones y lo suficientemente simple como
+          para ser utilizada de manera efectiva por absolutamente todos.
+        title: El motor de recaudación de fondos elegido por 50.000 organizaciones
+          de 96 países.
